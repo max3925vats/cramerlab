@@ -1,0 +1,192 @@
+- name: Guhan Subramanian
+  thesis: Displacement Chromatography of Biomolecules
+  date: 1990
+  info: Vice President Process and Product Development, Amgen
+- name: Michael Phillips
+  thesis: Optimization and Scale-Up of Displacement Chromatography
+  date: 1991
+  info: Director, Bioprocess Development, EMD Millipore
+- name: Dauh-Rung Wu
+  thesis: Multiphase Enzyme Reactors for Organic Synthesis
+  date: 1991
+  info: Research Scientist, Bristol Myers Squibb
+- name: Clayton Brooks, III
+  thesis: On the Characterization of Equilibrium in Ion Exchange Chromatography - Steric Mass Action Ion Exchange
+  date: 1993
+  info: Retired from Amgen
+- name: Guhan Jayaraman
+  thesis: Ion-Exchange Displacement Chromatography of Proteins - Heuristic Approaches to Displacer Design
+  date: 1993
+  info: Professor and Head of Biotechnology Department, IIT Madras
+- name: Joseph Gerstner
+  thesis: Membrane Chromatography
+  date: 1993
+  info: Bioprocessing Consultant
+- name: Young Kim
+  thesis: Metal Affinity Displacement Chromatography of Protein
+  date: 1993
+  info: Scientist, Genomics Center in Korea
+- name: Shishir Gadam
+  thesis: Characterization of Non-Linear Adsorption Properties of Biopolymers
+  date: 1994
+  info: Senior Director, Head Biologics DS and DP Technical Leaders and External Manufacturing MSAT at Genentech
+- name: Stuart Gallant
+  thesis: Control of Optimization of Displacement Systems
+  date: 1995
+  info: VP, Engineering and Product Development at Pro-Dex, Inc
+- name: Amitava Kundu
+  thesis: Low Molecular Weight Displacers for Protein Purification in Ion Exchange Systems
+  date: 1996
+  info: Associate Director, Process Development at Genmab MN Inc
+- name: Suresh Vunnum
+  thesis: Non-Linear Protein Separations by Immobilized Metal Affinity Chromatography
+  date: 1996
+  info: Scientific Director of Process Development, Amgen
+- name: Kristopher Barnthouse
+  thesis: Purification of Complex Biological Mixtures by High Throughtput Chromatography
+  date: 1997
+  info: Director, API Large Molecule Development, Johnson & Johnson
+- name: Abhinav Shukla
+  thesis: Novel Low Molecular Weight Displacers
+  date: 1999
+  info: Vice President, Process Development and Manufacturing at KBI Biopharma Inc
+- name: Venkatesh Nataragan
+  thesis: Optimization of Preparative Ion Exchange Chromatography
+  date: 1999
+  info: Senior Engineer III, Process at Biogen Idec
+- name: Samir Sanes
+  thesis: RAMAN and FTIR for evaluation of protein conformation on chromatographic surfaces
+  date: 1999
+  info: Director, Early Pharmaceutical Development Group, Genentech
+- name: Cecilia Mazza
+  thesis: Quantitative-structure based predictions of displacer and protein affinities in chromatographic systems
+  date: 2001
+  info: Global Product Manager HPLC columns/ Regional Sales Manager for Latin Countries at Kromasil-Eka Chemicals
+- name: Khurram Sunsasara
+  thesis: Hydrophobic Displacement Chromatography
+  date: 2002
+  info: Principal Scientist, Pfizer
+- name: Nihal Tugcu
+  thesis: Design of high affinity low molecular weight displacers and investigation of the selectivity of displacers and proteins in ion exchange systems
+  date: 2003
+  info: Executive Director Process Development & Engineering at Merck Co., Inc
+- name: Kaushal Rege
+  thesis: Chemoenzymatic synthesis, high-throughput screening, and structure-property relationships of novel bioseparation and DNA-binding agents
+  date: 2004
+  info: Associate Professor, Arizona State University
+- name: Fang Xia 
+  thesis: Hydrophobic interaction chromatography - Displacement modeling, process development, selectivity investigation, and displacer design
+  date: 2002
+  info: Scientist, Amgen
+- name: Deepak Nagrath
+  thesis: Evolutionary design, multiobjective optimization and control of chromatographic processes
+  date: 2003
+  info: Assistant Professor at Rice University
+- name: Asif Ladiwala
+  thesis: A multiscale investigation of protein affinity and displacer efficacy in chromatographic systems using quantitative structure-property relationship modeling
+  date: 2005
+  info: Senior Engineer / Group Leader, BioProcess Development, Genentech
+- name: Rohit Jindal
+  thesis: Selective filling for patterning in microfluidic channels and integration of chromatography in 'lab-on-a-chip' devices using sol-gel technology
+  date: 2005
+  info: Instructor, Massachusetts General Hospital
+- name: Sanchayita Ghose
+  thesis: Purification of monoclonal antibodies and Fc-fusion proteins - Protein A and beyond
+  date: 2005
+  info: Principal Engineer/Associate Director, Biogen Idec
+- name: Jia Liu
+  thesis: High affinity and selective displacers for high resolution protein separations in ion-exchange chromatography - displacer ranking, mechanism elucidation, and displacer design
+  date: 2006
+  info: Senior Research Associate, Genentech
+- name: Ting Yang
+  thesis: Protein Binding Affinity in Ion Exchange Chromatography and Quantitative Structure Property Relationship Modeling for Chromatographic Systems and Proteomics
+  date: 2007
+  info: Senior Development Specialist II, Shire
+- name: Jie Chen
+  thesis: Investigation of protein adsorption in hydrophobic interaction chromatographic (HIC) systems
+  date: 2007
+  info: Senior Scientist, Bistol-Myers Squibb
+- name: Shubhadeep Goswami
+  thesis: Chip electrochromatographic systems - novel vertically aligned carbon nanotube and silica monoliths based separations
+  date: 2009
+  info: Process Engineer, Intel
+- name: Wai Keen Chung
+  thesis: An investigation into the effects of protein surface modifications on protein binding affinity in ion exchange and multimodal chromatography
+  date: 2009
+  info: Scientist II, Medimmune
+- name: Steve Evans
+  thesis: Displacement chromatography for proteomic applications
+  date: 2009
+  info: Senior Scientist, Medimmune
+- name: Alexander Freed
+  thesis: Multiscale modeling of chromatographic systems
+  date: 2010
+  info: Post doctorate at Georgia Institute of Technology. Consultant at Booz Allen Hamilton Consulting
+- name: Christopher Morrison
+  thesis: Automated high throughput screening of selective displacers
+  date: 2010
+  info: Senior Scientist at Dimension Therapeutics
+- name: Miriam Levy
+  thesis: Selective filling for creating novel chromatographic chip systems
+  date: 2010
+  info: Senior Scientist, Advanced Liquid Logic
+- name: Ying Hou
+  thesis: QSPR Models of homologous protein libraries
+  date: 2011
+  info: Senior Research Biochemical Engineer, Merck
+- name: Melissa Holstein
+  thesis: Variant libraries for evaluation of multimodal chromatography
+  date: 2012
+  info: Scientist, EMD Millipore
+- name: Rahul Sheth
+  thesis: Smart biopolymers for affinity precipitation of antibodies
+  date: 2014
+  info: Scientist I, Biomarin
+- name: Siddharth Parimal
+  thesis: Molecular investigations of multimodal ligand-protein interactions
+  date: 2014
+  info: Scientist I, Biogen Idec
+- name: James Woo
+  thesis: Engineering biomolecular interactions to enhance selectivity in chromatographic separations
+  date: 2014
+  info: Research Scientist I, Gilead Sciences
+- name: Kartik Srinivasan
+  thesis: Biophysical investigation of protein-ligand interactions in multimodal chromatography
+  date: 2014
+  info: Scientist I, Process Development, Amgen
+- name: Hanne Sophie Karkov
+  thesis: Investigations into multimodal chromatographic selectivity using in silico designed Fab fragment variants and column modeling
+  date: 2015
+  info: Research Scientist in Downstream Technology, Novo Nordisk, Denmark
+- name: William Keller
+  thesis: Predictive scale-up of ion-exchange chromatography using high throughput miniature columns
+  date: 2015
+  info: Post Doctoral Fellow, Novo Nordisk, Denmark
+- name: Suvrajit Banerjee
+  thesis: Protein-Surface Interactions In Multimodal Chromatography - A Molecular Modeling Based Investigation
+  date: 2016
+  info: Entrepreneurial Scientist, Avantor
+- name: Steve Timmick
+  thesis: Strategies for the development of integrated purification processes fornon-platform biologic therapeutics
+  date: 2017
+  info: Scientist, Glaxo Smith Kline
+- name: Chaz Goodwine
+  thesis: Purification of non-mAb biologics - development of integrated purification processes
+  date: 2018
+  info: Scientist, AGC Biologics
+- name: Swarnim Ranjan
+  thesis: Biophysical investigation of Host Cell Protein interactions with mAbs
+  date: 2018
+  info: Scientist, BMS
+- name: Julie Robinson
+  thesis: A Protein Surface Properties Perspective on Multimodal Chromatography - From Fundamental Understanding to Predictive Tools
+  date: 2018
+  info: Scientist, Merck
+- name: Nicholas Vecchiarello
+  thesis: In-silico design of integrated chromatographic purification processes for therapeutic proteins
+  date: 2019
+  info: Scientist, Amgen  
+- name: Akshat Mullerpatan
+  thesis: ELP-ligand based Affinity Precipitation for Protein Purification - Discovery, Design and Process Development
+  date: 2019
+  info: Scientist-I, Sanofi

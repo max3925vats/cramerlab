@@ -1,0 +1,36 @@
+<footer class="footer container">
+	<div class="region region-footer">
+		<section id="block-footer-menu" class="block block-menu-block clearfix">
+			<div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-0 menu-level-1">
+				
+			</div>
+		</section>
+		<section id="footer-contact-info" class="block block-block clearfix">
+		School of Engineering, Rensselaer Polytechnic Institute<br>
+		Jonsson Engineering Center, Troy, NY USA 12180-3590<br>
+		Phone: (518) 276-6203 Fax: (518) 276-8788<br><br>
+		</section>
+
+		{% if jekyll.environment == 'production' %}
+		{% include analytics.html %}
+		{% endif %}
+
+
+		<section id="block-block-97" class="block block-block clearfix">
+			<script type="text/javascript" charset="utf-8">
+				jQuery(document).ready(function($) {
+				$("#search-block-form .input-group-btn button").attr("value","search");
+				$("#search-block-form .input-group").prepend('<label for="edit-search-block-form--2">Search</label>');
+				$("#search-block-form .input-group-btn button").append('<span class="hide">search</span>');
+				
+				// toggle form element
+				$("#search-block-form .input-group").hover(function(){
+				$("#edit-search-block-form--2").toggle();
+				});
+				});
+			</script>
+		</section>
+	</div>
+</footer>
+<script src="/assets/js/addthis.js"></script>
+<script src="/assets/js/bootstrap(1).js"></script>

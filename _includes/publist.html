@@ -1,0 +1,12 @@
+
+<div class="well">
+<h4>Recent Publications:</h4>
+
+{% for article in site.data.news limit:2 %}
+{{ article.date }}
+<p><em>{{ article.headline }}</em></p>
+{% endfor %}
+
+<h3><a href="{{ site.url }}{{ site.baseurl }}/publist.html">... see more</a></h3>
+    
+    </div>
