@@ -1,2 +1,0 @@
-/* Rensselaer Engineering JavaScript Functions  */
-
