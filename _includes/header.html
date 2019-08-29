@@ -19,7 +19,7 @@
 	<header id="navbar" role="banner" class="navbar container navbar-default">
 	<div class="container">
 		<div class="navbar-header">
-			<a href="http://www.rpi.edu/" id="rpiLogo"><img alt="Rensselaer" src="/assets/images/RPIlogo-no-tagline.png"></a>
+			<a href="http://www.rpi.edu/" id="rpiLogo"><img alt="Rensselaer" src="{{ site.baseurl }}/assets/images/RPIlogo-no-tagline.png"></a>
 			<a class="name navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" title="Home">The Cramer Lab</a>
 
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -85,7 +85,7 @@
 </div>
 
 <style>
-@import url(/assets/css/nav-dropbtn.css)
+@import url({{ site.baseurl }}/assets/css/nav-dropbtn.css)
 </style>
 
 <div id="tabs-outer">
@@ -116,7 +116,7 @@
 						</div>
 						<li class="leaf menu-mlid-1437"><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
 						<li class="leaf menu-mlid-1116"><a href="{{ site.url }}{{ site.baseurl }}/patents">Patents</a></li>
-						<div class="dropdown">						
+						<div class="dropdown">
 							<li class="leaf has-children menu-mlid-1341"><a href="{{ site.url }}{{ site.baseurl }}/people" style="text-decoration:none">People</a></li>
 							<div class="dropdown-content" id="peo-dp">
 								<a href="{{ site.url }}{{ site.baseurl }}/people/bio.html" style="text-decoration:none">Dr. Steven M. Cramer</a>

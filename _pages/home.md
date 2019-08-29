@@ -84,7 +84,7 @@ permalink: /
 </div>
 </div>
 <br />
-<script src="/assets/js/w3slider.js"> </script>
+<script src="{{ site.baseurl }}/assets/js/w3slider.js"> </script>
 
 
 </div>
