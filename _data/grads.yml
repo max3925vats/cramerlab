@@ -1,79 +1,79 @@
 - name: Camille Bilodeau
   photo: Camille.jpg
-  info: PhD Student, started __
+  info: PhD Student, started 2015
   email: bildoc@rpi.edu
   number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  education1: B.S. Chemical Enigneering, Northwestern University
+  education2: M.S. Chemical Enigneering, Northwestern University
 
 - name: Ronak Gudhka
   photo: Ronak.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
-  number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  info: PhD Student, started 2015
+  email: gudhkr@rpi.edu
+  number_educ: 1
+  education1: B.Tech. Pharmaceutical Sciences & Technology, ICT, Mumbai, India
+  education2: 
 
 - name: Siddharth Parasnavis
   photo: Siddharth.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
-  number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  info: PhD Student, started 2016
+  email: parass@rpi.edu
+  number_educ: 1
+  education1: B.S. Chemical Engineering, Clemson University
+  education2: 
 
 - name: Ronit Ghosh
   photo: Ronit.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
-  number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  info: PhD Student, started 2016
+  email: ghoshr4@rpi.edu
+  number_educ: 1
+  education1: B.Tech. Chemical Engineering, Jadavpur University, Kolkata, India
+  education2: 
 
 - name: Mayank Vats
   photo: Mayank.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
-  number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  info: PhD Student, started 2017
+  email: vatsm@rpi.edu
+  number_educ: 1
+  education1: B.Tech. Chemical Engineering & Technology, IIT (BHU), Varanasi, India 
+  education2: 
 
 - name: Xuan Han
   photo: Han.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
-  number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  info: PhD Student, started 2017
+  email: hanx4@rpi.edu
+  number_educ: 1
+  education1: B.S. Biological Engineering & Technology, Tianjin University, China
+  education2: 
 
 - name: Manish Bhat
   photo: Manish.jpeg
-  info: PhD Student, started __
-  email: __@rpi.edu
-  number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  info: PhD Student, started 2017
+  email: bhatm@rpi.edu
+  number_educ: 1
+  education1: B.Tech. Chemical Engineering, IIT, Delhi, India
+  education2: 
 
 - name: Kabir Dhingra
   photo: Kabir.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
-  number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  info: PhD Student, started 2018
+  email: dhingk@rpi.edu
+  number_educ: 1
+  education1: B.E.(Honors) Chemical Engineering, BITS, Pilani, India
+  education2: 
 
 - name: Imee Sinha
   photo: Imee.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
+  info: PhD Student, started 2018
+  email: sinhai@rpi.edu
   number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  education1: B.Tech. Chemical Engineering, NIT, Jalandhar, India
+  education2: M.Tech. Chemical Engineering, IIT, Delhi, India
 
 - name: Scott Altern
   photo: Scott.jpg
-  info: PhD Student, started __
-  email: __@rpi.edu
+  info: PhD Student, started 2018
+  email: alters@rpi.edu
   number_educ: 2
-  education1: Bachelor's __
-  education2: Master's __
+  education1: B.S. Chemical Engineering, RPI
+  education2: M.E. Chemical Engineering, RPI

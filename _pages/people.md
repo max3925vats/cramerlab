@@ -71,7 +71,7 @@ permalink: /people/
 {% endif %}
 
 ---
-### Post-Doc Students
+### Postdoctoral Research Associate
 
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
