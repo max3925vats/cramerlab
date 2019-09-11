@@ -1,27 +1,104 @@
 ---
 title: "Cramer Lab - Gallery"
-layout: gallery
+layout: default
 excerpt: "Cramer Lab - Gallery"
 sitemap: false
 permalink: /gallery
 ---
 
-<h3 class="page-description text-center">The Cramer Lab Gallery</h3>
-<div class="tz-gallery">
-<div class="row">
+<style>
+#gallery ul {
+  list-style-type: none;
+}
+#gallery ul li {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  padding: 30px;
+}
+#gallery ul li .mosaicItem {
+  width: 300px;
+}
+#gallery ul li .mosaicItem > a .text {
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-weight: 600;
+  line-height: 50px;
+  transition: all 0.5s ease-in-out;
+  opacity: 0;
+}
+#gallery ul li .mosaicItem > a:hover .text {
+  bottom: 0;
+  opacity: 1;
+}
+#gallery ul li .popin {
+  display: flex;
+  text-align: center;
+  position: fixed;
+  top: -100%;
+  transition: all ease 0.5s;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+#gallery ul li .popin:target {
+  top: 0;
+  opacity: 1;
+}
+#gallery ul li .popin:target .imgBox {
+  position: relative;
+  z-index: 998;
+}
+#gallery ul li .popin:target .imgBox:before {
+  content: "✖";
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  color: white;
+  z-index: 999;
+}
+#gallery ul li .popin:target .imgBox img {
+  border: 3px solid white;
+}
+#gallery ul li .popin .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100%;
+  z-index: 899;
+}
+</style>
+
+<div class="container-fluid">
+
+<h1>Gallery</h1>
+<div id="gallery">
+<ul>
 {% for pic in site.data.gallery %}
-
-<div class="col-sm-3">
-<div class="thumbnail">
-<a class="lightbox" href="{{site.url}}{{site.baseurl}}/assets/images/Gallery/{{pic.photo}}"><img src="{{site.url}}{{site.baseurl}}/assets/images/Gallery/{{pic.photo}}" alt="{{pic.title}}"></a>
-<div class="caption">
-<h3>{{pic.caption}}</h3>
-<p>{{pic.info}}</p>
-</div>
-</div>
-</div>
-
+<li id="{{pic.imageid}}">
+  <div class="mosaicItem"><a href="#{{pic.popinid}}">
+  <img src="{{site.url}}{{site.baseurl}}/assets/images/Gallery/{{pic.photo}}" alt="{{pic.caption}}" />
+  <div class="text">{{pic.caption}}</div>
+  </a></div>
+  <div class="popin" id="{{pic.popinid}}"><a href="#{{pic.imageid}}">
+  <div class="overlay"></div>
+  <div class="imgBox"><img src="{{site.url}}{{site.baseurl}}/assets/images/Gallery/{{pic.photo}}" alt="{{pic.caption}}" /></div>
+  </a></div>
+</li>
 {% endfor %}
-
+</ul>  
 </div>
 </div>

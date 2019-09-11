@@ -25,25 +25,17 @@ permalink: /
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
     <li data-target="#carousel" data-slide-to="2"></li>
-    <li data-target="#carousel" data-slide-to="3"></li>
-    <li data-target="#carousel" data-slide-to="4"></li>
   </ol>
   <!-- Items -->
   <div class="carousel-inner" markdown="0">
     <div class="item active">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider1.jpeg" alt="Slide 1" />
+      <a href="https://doi.org/10.1021/acs.analchem.7b04158"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider1.jpeg" alt="Slide 1" /></a>
     </div>
     <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider2.jpeg" alt="Slide 2" />
+      <a href="https://doi.org/10.1021/acs.langmuir.7b03011"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider2.jpeg" alt="Slide 2" /></a>
     </div>
     <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider3.jpeg" alt="Slide 3" />
-    </div>
-    <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider4.jpg" alt="Slide 4" />
-    </div>
-    <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider5.jpg" alt="Slide 5" />
+      <a href="https://doi.org/10.1021/la502141q"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/slider/slider3.jpeg" alt="Slide 3" /></a>
     </div>
   </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
