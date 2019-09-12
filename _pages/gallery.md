@@ -2,7 +2,7 @@
 title: "Cramer Lab - Gallery"
 layout: default
 excerpt: "Cramer Lab - Gallery"
-sitemap: false
+sitemap: true
 permalink: /gallery
 ---
 

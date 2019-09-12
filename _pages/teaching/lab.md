@@ -2,8 +2,8 @@
 title: "Cramer Lab - Teaching - Senior Lab"
 layout: textlay
 excerpt: "Teaching - Senior Lab"
-sitemap: false
-permalink: /teaching/lab.html
+sitemap: true
+permalink: /lab.html
 ---
 
 ### Purification of Proteins using Ion Exchange Chromatography - Senior Lab (Spring Semester)

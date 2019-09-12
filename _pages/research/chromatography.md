@@ -2,7 +2,9 @@
 title: "Research - Chromatography"
 layout: gridlay
 excerpt: "Cramer Lab Research - Chromatography"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /chromatography.htm
 permalink: /research/chromatography.html
 ---
 ### Chromatography

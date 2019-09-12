@@ -11,6 +11,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/cramerlab"
 url: ""
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
 include:
   - _pages
 

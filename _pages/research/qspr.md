@@ -2,7 +2,9 @@
 title: "Research - QSPR"
 layout: gridlay
 excerpt: "Cramer Lab Research - QSPR"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /qspr.htm
 permalink: /research/qspr.html
 ---
 ### Quantitative Structure Property Relationships (QSPR)

@@ -2,7 +2,9 @@
 title: "Research - NMR"
 layout: gridlay
 excerpt: "Cramer Lab Research - NMR"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /nmr.htm
 permalink: /research/nmr.html
 ---
 ### Nuclear Magnetic Resonance (NMR)

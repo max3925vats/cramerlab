@@ -2,7 +2,11 @@
 title: "Cramer Lab - Home"
 layout: homelay
 excerpt: "Cramer Lab @ RPI."
-sitemap: false
+sitemap: true
+redirect_from:
+    - /home.htm
+    - /index.htm
+    - /index_old.htm
 permalink: /
 ---
 
@@ -62,8 +66,8 @@ permalink: /
 </div>
 <div class="col-sm-4">
 <div style="padding:30px;background-color:#54585a;color:#fff;text-align:center">
-  <h2><a href="{{ site.url }}{{ site.baseurl }}/publications" style="color:#fff"><span class="glyphicon glyphicon-file"></span></a></h2>
-  <h3><a href="{{ site.url }}{{ site.baseurl }}/publications" style="color:#fff;text-decoration:none">Publications</a></h3>
+  <h2><a href="{{ site.url }}{{ site.baseurl }}/publications.html" style="color:#fff"><span class="glyphicon glyphicon-file"></span></a></h2>
+  <h3><a href="{{ site.url }}{{ site.baseurl }}/publications.html" style="color:#fff;text-decoration:none">Publications</a></h3>
   <p>Browse our publications.</p>
 </div>
 </div>

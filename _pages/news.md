@@ -2,7 +2,9 @@
 title: "News"
 layout: gridlay
 excerpt: "Cramer Lab at RPI."
-sitemap: false
+sitemap: true
+redirect_from:
+    - /news.htm
 permalink: /news.html
 ---
 

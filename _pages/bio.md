@@ -2,7 +2,9 @@
 title: "Cramer Lab - About Dr. Cramer"
 layout: gridlay
 excerpt: "Cramer Lab - About Dr. Cramer"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /cramer.htm
 permalink: /people/bio.html
 ---
 
