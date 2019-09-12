@@ -1,108 +1,162 @@
-- title: 
-  photo: 20180810_120426.jpg
-  caption: 
-  info: 
-- title: 
-  photo: Cramer_BMS_lab_alumni_July_2018.jpg
-  caption: 
-  info: 
-- title: 
-  photo: group2016-17-1.jpg
-  caption: 
-  info: 
-- title: 
-  photo: group2017-18-1.jpg
-  caption: 
-  info: 
-- title: 
-  photo: group2017-18-2.jpg
-  caption: 
-  info: 
-- title: 
-  photo: grp1.jpg
-  caption: 
-  info: 
-- title: 
+- title:
+  photo: group-2019.jpg
+  caption: Summer 2019 Barbecue
+  info:
+  imageid: image28
+  popinid: popin28
+- title:
+  photo: rpi_merck_winning_photo.jpeg
+  caption: Merck-RPI Highland Games First Place Photo (tie with Genentech) at the 2018 Recovery Conference in Asheville, NC
+  info:
+  imageid: image27
+  popinid: popin27
+- title:
   photo: 20181011_001514.jpg
-  caption: 
-  info: 
-- title: 
+  caption: Cramer lab reunion at Recovery 2018
+  info:
+  imageid: image26
+  popinid: popin26
+- title:
   photo: 20181212_202836.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2005.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2003.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2002.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2004.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2006.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2007.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2009.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_2012.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_group_reunion_at_acs_meeting.jpg
-  caption: 
-  info: 
-- title: 
-  photo: cramer_lab_group_photo_June_2012_at_____Niskayuna.jpg
-  caption: 
-  info: 
-- title: 
-  photo: currentgroup.jpg
-  caption: 
-  info: 
-- title: 
-  photo: facebook_1527765295025.jpg
-  caption: 
-  info: 
-- title: 
-  photo: group_picture_at_my_home.jpg
-  caption: 
-  info: 
-- title: 
-  photo: Screenshot_20180720-201025.png
-  caption: 
-  info: 
-- title: 
-  photo: Sofie_hoodling_picture.jpg
-  caption: 
-  info: 
-- title: 
-  photo: recoveryreunionphoto.jpg
-  caption: 
-  info: 
-- title: 
-  photo: Recovery_get-together.jpg
-  caption: 
-  info: 
-- title: 
-  photo: oldgroup.jpg
-  caption: 
-  info: 
-- title: 
+  caption: Julie's Ph.D. Defense Celebration
+  info:
+  imageid: image25
+  popinid: popin25
+- title:
+  photo: 20180810_120426.jpg
+  caption: Summer 2018 Barbecue
+  info:
+  imageid: image24
+  popinid: popin24
+- title:
+  photo: Cramer_BMS_lab_alumni_July_2018.jpg
+  caption: Cramer Lab Alumni at BMS
+  info:
+  imageid: image23
+  popinid: popin23
+- title:
+  photo: group2017-18-1.jpg
+  caption: Christmas 2017 Dinner
+  info:
+  imageid: image22
+  popinid: popin22
+- title:
+  photo: group2016-17-1.jpg
+  caption: Cramer Group 2016-17
+  info:
+  imageid: image21
+  popinid: popin21
+- title:
   photo: FB_IMG_1529759902743.jpg
-  caption: 
-  info: 
+  caption: Recovery 2016 Bermuda Group Reunion
+  info:
+  imageid: image20
+  popinid: popin20
+- title:
+  photo: Sofie_hoodling_picture.jpg
+  caption: Sofie Karakov hooding ceremony!
+  info:
+  imageid: image19
+  popinid: popin19
+- title:
+  photo: facebook_1527765295025.jpg
+  caption: Commencement!
+  info:
+  imageid: image18
+  popinid: popin18
+- title:
+  photo: grp1.jpg
+  caption: Cramer Group 2015-16
+  info:
+  imageid: image17
+  popinid: popin17
+- title:
+  photo: cramer_group_2012.jpg
+  caption: Cramer Group 2012
+  info:
+  imageid: image16
+  popinid: popin16
+- title:
+  photo: cramer_lab_group_photo_June_2012_at_Niskayuna.jpg
+  caption: Summer 2012 Barbecue
+  info:
+  imageid: image15
+  popinid: popin15
+- title:
+  photo: group_picture_at_my_home.jpg
+  caption: Summer 2011 Barbecue
+  info:
+  imageid: image14
+  popinid: popin14
+- title:
+  photo: cramer_group_2009.jpg
+  caption: Cramer Group 2009
+  info:
+  imageid: image12
+  popinid: popin12
+- title:
+  photo: cramer_group_2007.JPG
+  caption: Cramer Group 2007
+  info:
+  imageid: image11
+  popinid: popin11
+- title:
+  photo: cramer_group_2006.jpg
+  caption: Cramer Group 2006
+  info:
+  imageid: image10
+  popinid: popin10
+- title:
+  photo: cramer_group_2005.jpg
+  caption: Cramer Group 2005
+  info:
+  imageid: image9
+  popinid: popin9
+- title:
+  photo: cramer_group_2004.jpg
+  caption: Cramer Group 2004
+  info:
+  imageid: image8
+  popinid: popin8
+- title:
+  photo: cramer_group_2003.jpg
+  caption: Cramer Group 2003
+  info:
+  imageid: image7
+  popinid: popin7
+- title:
+  photo: cramer_group_2002.jpg
+  caption: Cramer Group 2002
+  info:
+  imageid: image6
+  popinid: popin6
+- title:
+  photo: currentgroup.jpg
+  caption: Really old!
+  info:
+  imageid: image5
+  popinid: popin5
+- title:
+  photo: oldgroup.jpg
+  caption: Reunions
+  info:
+  imageid: image4
+  popinid: popin4
+- title:
+  photo: Recovery_get-together.jpg
+  caption: Old Recovery Get-together
+  info:
+  imageid: image3
+  popinid: popin3
+- title:
+  photo: cramer_group_reunion_at_acs_meeting.jpg
+  caption: Cramer Group Reunion @ ACS
+  info:
+  imageid: image2
+  popinid: popin2
+- title:
+  photo: recoveryreunionphoto.jpg
+  caption: Reunion @ Recovery
+  info:
+  imageid: image1
+  popinid: popin1

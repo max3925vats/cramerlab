@@ -2,7 +2,17 @@
 title: "Cramer Lab - Alumni"
 layout: textlay
 excerpt: "Cramer Lab: Alumni"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /alumni.htm
+    - /Holstein.htm
+    - /Karkov.htm  
+    - /Keller.htm
+    - /Parimal.htm
+    - /Rimenys.htm
+    - /Sheth.htm
+    - /Srinivasan.htm
+    - /Woo.htm
 permalink: /alumni.html
 ---
 

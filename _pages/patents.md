@@ -2,7 +2,9 @@
 title: "Cramer Lab - Patents"
 layout: textlay
 excerpt: "Patents"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /patents.htm
 permalink: /patents.html
 ---
 

@@ -2,8 +2,8 @@
 title: "Cramer Lab - Teaching - Courses"
 layout: textlay
 excerpt: "Teaching - Courses"
-sitemap: false
-permalink: /teaching/taught.html
+sitemap: true
+permalink: /taught.html
 ---
 <div id="course1">
 ### Chromatographic Separation Processes (Spring Semester)
@@ -24,7 +24,7 @@ permalink: /teaching/taught.html
 </div>
 ---
 
-### [Senior Lab]({{site.url}}{{site.baseurl}}/teaching/lab.html)
+### [Senior Lab]({{site.url}}{{site.baseurl}}/lab.html)
 
 ---
 #### Literature Cited

@@ -2,7 +2,9 @@
 title: "Student Awards"
 layout: textlay
 excerpt: "Cramer Lab - Student Awards"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /awards.htm
 permalink: /awards.html
 ---
 

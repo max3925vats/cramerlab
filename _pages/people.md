@@ -2,7 +2,12 @@
 title: "Cramer Lab - Team"
 layout: gridlay
 excerpt: "Cramer Lab: Team members"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /people.htm
+    - /people.html
+    - /NewPeople.htm
+    - /people1.htm
 permalink: /people/
 ---
 
@@ -201,4 +206,4 @@ permalink: /people/
 
 ---
 ### Alumni
-Click [here]({{site.url}}{{site.baseurl}}/alumni) for a complete list.
+Click [here]({{site.url}}{{site.baseurl}}/alumni.html) for a complete list.

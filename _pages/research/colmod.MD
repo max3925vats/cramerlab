@@ -2,7 +2,9 @@
 title: "Research - Column Modelling"
 layout: gridlay
 excerpt: "Cramer Lab Research - Column Modelling"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /colmod.htm
 permalink: /research/colmod.html
 ---
 ### Column Modelling

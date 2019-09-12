@@ -2,7 +2,9 @@
 title: "Cramer Lab - Publications"
 layout: gridlay
 excerpt: "Cramer Lab -- Publications."
-sitemap: false
+sitemap: true
+redirect_from:
+    - /publications.htm
 permalink: /publications.html
 ---
 

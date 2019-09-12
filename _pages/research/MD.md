@@ -2,7 +2,9 @@
 title: "Research - MD"
 layout: gridlay
 excerpt: "Cramer Lab Research - MD"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /MD.htm
 permalink: /research/MD.html
 ---
 ### Molecular Dynamics Simulations (MD Simulations)

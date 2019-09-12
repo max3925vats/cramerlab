@@ -2,7 +2,11 @@
 title: "Cramer Lab - Research"
 layout: gridlay
 excerpt: "Cramer Lab -- Research"
-sitemap: false
+sitemap: true
+redirect_from:
+    - /research.htm
+    - /smartbiopolymer.htm
+    - /othertech.htm
 permalink: /research/
 ---
 ### Molecular Bioprocessing Research
